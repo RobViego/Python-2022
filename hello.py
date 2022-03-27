@@ -2,7 +2,7 @@ import os
 os.system("clear")
 
 people_and_their_last_names = {
-	"Bartek": "Mincewicz",
+	"Andrew": "Smith",
 	"Robert": "Lewandowski"
 }
 
